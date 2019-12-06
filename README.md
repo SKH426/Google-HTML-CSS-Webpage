@@ -1,4 +1,4 @@
-# Google-HTML-CSS-Webpage
+# Google HTML/CSS Task
 Webpage Google Code-in 
 
 index.html includes the html for the HTML/CSS Task on Google Code-in.<br>
